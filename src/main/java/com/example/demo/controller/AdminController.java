@@ -20,7 +20,7 @@ import org.springframework.security.core.context.SecurityContextHolder;
 import java.util.List;
 
 @Controller
-public class AuthController {
+public class AdminController {
 
     private UserService userService;
     private RoleServiceimpl roleService;
