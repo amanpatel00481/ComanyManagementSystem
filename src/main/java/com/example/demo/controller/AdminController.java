@@ -22,7 +22,7 @@ import java.util.List;
 @Controller
 public class AdminController {
 
-    private UserService userService;
+    private AdminService adminService;
     private RoleServiceimpl roleService;
 
     public AuthController(UserService userService, RoleServiceimpl roleService) {
