@@ -7,5 +7,10 @@ Database: MySQL
 Backend: Java , Spring Boot 
 Frontend: HTML, CSS
 
-ER Diagram
-![ER Diagram](companymanagemant/er_diagram_ employee_management.png)
+## ER Diagram
+
+Here's the Entity-Relationship (ER) diagram for the Company Management System:
+
+![ER Diagram](er_diagram.png)
+
+
