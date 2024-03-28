@@ -6,3 +6,6 @@ Technologies Used
 Database: MySQL
 Backend: Java , Spring Boot 
 Frontend: HTML, CSS
+
+ER Diagram
+![ER Diagram](companymanagemant/er_diagram_ employee_management.png)
